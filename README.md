@@ -9,5 +9,4 @@ Digit recognition is a simple task of recognising digits from 0 to 9. A simple C
 
 You can directly download the model in onnx format here https://drive.google.com/file/d/16y9_jh7H7La0M1vuQ3XcpdpYu-ibJbJB/view?usp=sharing. 
 
-### Demo
-![](/home/nagaraj/Desktop/Deep Learning/MNIST/output.gif)
+
