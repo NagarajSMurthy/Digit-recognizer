@@ -8,3 +8,6 @@ Digit recognition is a simple task of recognising digits from 0 to 9. A simple C
 3. Load the model.onnx file and run an inference session on your CPU using ONNX Runtime. Make sure to specify the path in mnist_onnx.py 
 
 You can directly download the model in onnx format here https://drive.google.com/file/d/16y9_jh7H7La0M1vuQ3XcpdpYu-ibJbJB/view?usp=sharing. 
+
+### Demo
+![](/home/nagaraj/Desktop/Deep Learning/MNIST/output.gif)
